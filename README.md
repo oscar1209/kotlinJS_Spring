@@ -1,4 +1,4 @@
-# Spring Boot - Kotlin/JS demo
+# Kotlin/JS with Spring Boot
 
 這個練習的專案參考了
 [Going full-stack with Kotlin/JS and Spring Boot](https://dzone.com/articles/going-full-stack-with-kotlinjs-and-spring-boot)
